@@ -1,0 +1,23 @@
+{
+  "users": [],
+  "jobs": [],
+  "candidates": [],
+  "analyses": [],
+  "applications": [],
+  "leads": [],
+  "settings": {
+    "admin": {},
+    "empresa": {},
+    "candidato": {}
+  },
+  "notificationReads": {},
+  "candidateSavedJobs": {},
+  "tokenPricing": {
+    "campaign_create": 24,
+    "job_create": 18,
+    "resume_analysis_start": 8,
+    "resume_analysis_reprocess": 5
+  },
+  "tokenWallets": [],
+  "tokenTransactions": []
+}
